@@ -27,7 +27,7 @@ function makeInt(a) {
 }
 
 function makeInt(a) {
-  parseInt('2', 10);
+  parseInt(a, 10);
 }
 
 
